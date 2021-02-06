@@ -1,4 +1,4 @@
-FROM danielrs975/ros-melodic-rosbridge
+FROM danielrs975/ros-melodic-rosbridge:0.1
 
 # ----------------- Installation of Gazebo 9 -------------------------
 # setup timezone
